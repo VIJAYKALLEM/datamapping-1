@@ -4,14 +4,16 @@ Lab: Working with CSV and Shapefile data, data Joins and Field Calculator on QGI
 
 Explored some NYC 311 aggregated data and analyze the trends around illegal fireworks in the month of June 2021.
 
-Zip code where the 311 complaint was recorded
+Quantile representation of all types of 311 complaints by zip code for the month of June 2021
+
 ![All311complaints](https://user-images.githubusercontent.com/70838225/135324826-44556f94-2442-41ae-8d45-04d0b4ce6c32.png)
 
-Count of all types of 311 complaints by zip code for the month of June 2021
+Quantile representation of 311 complaints related to illegal fireworks in June 2021 by zip code.
+
 ![Fireworkcomplaints](https://user-images.githubusercontent.com/70838225/135324938-20349630-c87c-4c33-852b-d44833f7249d.png)
 
+Quantile representation of the precent illegal fireworks takes up from the total 311 complaints in June 2021 by zip code.
 
-Count of 311 complaints related to illegal fireworks in June 2021 by zip code.
 ![Firewokpercentage](https://user-images.githubusercontent.com/70838225/135324998-e33c3f2d-e1a1-4c0d-8bab-fac9ac80e40a.png)
 
 
