@@ -1,6 +1,6 @@
 # datamapping-1
 
- Working with CSV and Shapefile data, data Joins and Field Calculator on QGIS
+Lab: Working with CSV and Shapefile data, data Joins and Field Calculator on QGIS
 
 you will need to implement things we learned in class to wrangle data and create a data visualization on QGIS.
 
@@ -11,6 +11,8 @@ Here we will explore some NYC 311 aggregated data and analyze the trends around 
 CSV file with the count of 311 complaints in NYC by zip code for June 2021. This data contains 3 columns:
 
 Zip code where the 311 complaint was recorded
+![All311complaints](https://user-images.githubusercontent.com/70838225/135324826-44556f94-2442-41ae-8d45-04d0b4ce6c32.png)
+
 Count of all types of 311 complaints by zip code for the month of June 2021
 Count of 311 complaints related to illegal fireworks in June 2021 by zip code.
 
